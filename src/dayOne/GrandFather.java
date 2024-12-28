@@ -8,7 +8,7 @@ class GrandFather extends Family
 	protected double InitialBalance;
 	
 	
-	public GrandFather(String name, float amount,int accNumber, double initialBalance)
+	public GrandFather(String name, double amount,int accNumber, double initialBalance)
 	{
 		Name=name;
 		Amount=amount;
